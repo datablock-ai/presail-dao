@@ -40,12 +40,6 @@ and instead describe these in your PR.
 How would you host this code? Would you introduce any third-party provider to help with performance?
 Is Rails or Ruby placing any inherit limitations on the performance?
 
-### How to submit your answer
-1) Fork this repository to your own Github user
-2) Make a PR with all your changes, to your own fork
-3) Write the PR as you would in a normal work setting, but make sure to describe the reasoning behind the changes you make. We are at least as interested in your thought process, as in the changes you make.
-4) Add a link to the PR in your answer (make sure it's publicly available)
-
 ### Getting up and running
 The app uses
 - Rails 7, Ruby 3.1
